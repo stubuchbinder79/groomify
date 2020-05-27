@@ -2,51 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4cd75ccc-0a24-4a7f-9667-0f17cca873da" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../ios/groomify/groomify/BundleCell.swift" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ios/groomify/groomify/BundleCell.xib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ios/groomify/groomify/prefabs.plist" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.groomify-unity/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.groomify-unity/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.groomify-unity/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.groomify-unity/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.groomify-unity/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.groomify-unity/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.groomify-unity/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.groomify-unity/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Groomify/Scripts/ARSessionManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Groomify/Scripts/ARSessionManager.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Groomify/Scripts/FaceManager.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Groomify/Scripts/FaceManager.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Groomify/Scripts/MainController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Groomify/Scripts/MainController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ios/groomify/groomify.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/groomify/groomify.xcodeproj/project.pbxproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ios/groomify/groomify/Base.lproj/Main.storyboard" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/groomify/groomify/Base.lproj/Main.storyboard" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ios/groomify/groomify/ViewController.swift" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/groomify/groomify/ViewController.swift" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ios/unity-build/Classes/Native/Assembly-CSharp.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/unity-build/Classes/Native/Assembly-CSharp.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ios/unity-build/Classes/Native/Assembly-CSharp_CodeGen.c" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/unity-build/Classes/Native/Assembly-CSharp_CodeGen.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ios/unity-build/Classes/Native/Il2CppAttributes.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/unity-build/Classes/Native/Il2CppAttributes.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ios/unity-build/Classes/Native/Il2CppCodeRegistration.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/unity-build/Classes/Native/Il2CppCodeRegistration.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ios/unity-build/Classes/Native/Il2CppCompilerCalculateTypeValues1.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/unity-build/Classes/Native/Il2CppCompilerCalculateTypeValues1.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ios/unity-build/Classes/Native/Il2CppCompilerCalculateTypeValuesTable.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/unity-build/Classes/Native/Il2CppCompilerCalculateTypeValuesTable.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ios/unity-build/Classes/Native/Il2CppGenericMethodDefinitions.c" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/unity-build/Classes/Native/Il2CppGenericMethodDefinitions.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ios/unity-build/Classes/Native/Il2CppGenericMethodPointerTable.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/unity-build/Classes/Native/Il2CppGenericMethodPointerTable.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ios/unity-build/Classes/Native/Il2CppGenericMethodTable.c" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/unity-build/Classes/Native/Il2CppGenericMethodTable.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ios/unity-build/Classes/Native/Il2CppMetadataRegistration.c" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/unity-build/Classes/Native/Il2CppMetadataRegistration.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ios/unity-build/Classes/Native/Il2CppMetadataUsage.c" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/unity-build/Classes/Native/Il2CppMetadataUsage.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ios/unity-build/Classes/Native/Il2CppTypeDefinitions.c" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/unity-build/Classes/Native/Il2CppTypeDefinitions.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ios/unity-build/Classes/Native/System.Core_CodeGen.c" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/unity-build/Classes/Native/System.Core_CodeGen.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ios/unity-build/Classes/Native/System_CodeGen.c" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/unity-build/Classes/Native/System_CodeGen.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ios/unity-build/Classes/Native/Unity.XR.ARFoundation_CodeGen.c" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/unity-build/Classes/Native/Unity.XR.ARFoundation_CodeGen.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ios/unity-build/Classes/Native/Unity.XR.ARSubsystems_CodeGen.c" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/unity-build/Classes/Native/Unity.XR.ARSubsystems_CodeGen.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ios/unity-build/Classes/Native/UnityEngine.AssetBundleModule_CodeGen.c" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/unity-build/Classes/Native/UnityEngine.AssetBundleModule_CodeGen.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ios/unity-build/Classes/Native/UnityEngine.CoreModule_CodeGen.c" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/unity-build/Classes/Native/UnityEngine.CoreModule_CodeGen.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ios/unity-build/Classes/Native/UnityEngine.SubsystemsModule_CodeGen.c" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/unity-build/Classes/Native/UnityEngine.SubsystemsModule_CodeGen.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ios/unity-build/Classes/Native/mscorlib_CodeGen.c" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/unity-build/Classes/Native/mscorlib_CodeGen.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ios/unity-build/Data/Managed/Assembly-CSharp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/unity-build/Data/Managed/Assembly-CSharp.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ios/unity-build/Data/Managed/EditorToUnityLinkerData.json" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/unity-build/Data/Managed/EditorToUnityLinkerData.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ios/unity-build/Data/Managed/Metadata/global-metadata.dat" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/unity-build/Data/Managed/Metadata/global-metadata.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ios/unity-build/Data/Managed/TypesInScenes.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/unity-build/Data/Managed/TypesInScenes.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ios/unity-build/Data/Managed/Unity.Subsystem.Registration.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/unity-build/Data/Managed/Unity.Subsystem.Registration.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ios/unity-build/Data/Managed/Unity.XR.ARKit.FaceTracking.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/unity-build/Data/Managed/Unity.XR.ARKit.FaceTracking.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ios/unity-build/Data/Managed/Unity.XR.ARKit.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/unity-build/Data/Managed/Unity.XR.ARKit.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ios/unity-build/Data/Managed/Unity.XR.ARSubsystems.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/unity-build/Data/Managed/Unity.XR.ARSubsystems.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ios/unity-build/Data/Managed/Unity.XR.Management.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/unity-build/Data/Managed/Unity.XR.Management.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ios/unity-build/Data/globalgamemanagers" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/unity-build/Data/globalgamemanagers" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ios/unity-build/Data/globalgamemanagers.assets" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/unity-build/Data/globalgamemanagers.assets" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ios/unity-build/Data/level0" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/unity-build/Data/level0" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ios/unity-build/Data/sharedassets0.assets" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/unity-build/Data/sharedassets0.assets" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -55,10 +14,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/0238BFE0-2151-4B7D-B0E6-426A8B93465D/e4/1977b53b/ARFaceManager.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Groomify/Scripts/BundleLoader.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Groomify/Scripts/MainController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Groomify/Scripts/ARSessionManager.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -119,6 +79,7 @@
       <updated>1590517301124</updated>
       <workItem from="1590517304370" duration="1484000" />
       <workItem from="1590530281039" duration="2774000" />
+      <workItem from="1590582816326" duration="97000" />
     </task>
     <servers />
   </component>
@@ -132,7 +93,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
