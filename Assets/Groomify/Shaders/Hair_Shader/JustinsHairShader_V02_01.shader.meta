@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: e97e6567eba934c079e7a636a022a755
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _Gradient_T_L: {fileID: 2800000, guid: a2796156087aeb542b1d74231b811923, type: 3}
+  - _Gradient_T_R: {fileID: 2800000, guid: 37612640132428b4faf5ca8c99079977, type: 3}
+  - _Gradient_B_L: {fileID: 2800000, guid: f57f0b7d202e21e4989c1cde31585473, type: 3}
+  - _Gradient_B_R: {fileID: 2800000, guid: f6a869b91e03cbc4c89fa57336a8af4b, type: 3}
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

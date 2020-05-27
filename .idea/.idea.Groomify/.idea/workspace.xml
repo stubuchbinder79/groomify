@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b640e422-ed08-4266-aa37-014fc6c029c2" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/99258562-0D64-4271-98DD-F3A0E1467733/56/bab14bb7/Action`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Groomify/Scripts/BundleLoader.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Groomify/Scripts/ARSessionManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.xr.arfoundation@2.1.8/Runtime/AR/ARFace.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.xr.arfoundation@2.1.8/Runtime/AR/ARSession.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Groomify/Scripts/FaceManager.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/BeardKit/Scripts/Singleton.cs" />
+        <option value="$PROJECT_DIR$/Assets/BeardKit/Scripts/LightEstimation.cs" />
+        <option value="$PROJECT_DIR$/Assets/BeardKit/Scripts/BundleLoader.cs" />
+        <option value="$PROJECT_DIR$/Assets/BeardKit/Scripts/MainController.cs" />
+        <option value="$PROJECT_DIR$/Assets/BeardKit/Scripts/BundleManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/BeardKit/Scripts/bundles/BundleLoader.cs" />
+        <option value="$PROJECT_DIR$/Assets/BeardKit/Scripts/bundles/BundleLocation.cs" />
+        <option value="$PROJECT_DIR$/Assets/BeardKit/Scripts/face/FaceManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/BeardKit/Scripts/bundles/BundleManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/BeardKit/Scripts/face/JawOpenBlendShapeVisualizer.cs" />
+        <option value="$PROJECT_DIR$/Assets/BeardKit/Scripts/util/ARKitBlendShapeVisualizer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Groomify/Scripts/util/ARKitBlendShapeVisualizer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Groomify/Scripts/bundles/BundleManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Groomify/Scripts/dispatch/DispatchManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Groomify/Scripts/ARSessionManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Groomify/Scripts/FaceManager.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cFSrLTlesoa3OHBBRD4iqYpCZQ" />
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="userSelectedPid" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost" pid="71053">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" value="71053" />
+      <option name="userSelectedPid" value="false" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b640e422-ed08-4266-aa37-014fc6c029c2" name="Default Changelist" comment="" />
+      <created>1590123046826</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590123046826</updated>
+      <workItem from="1590123051345" duration="1672000" />
+      <workItem from="1590124879197" duration="261000" />
+      <workItem from="1590129348793" duration="303000" />
+      <workItem from="1590131360894" duration="847000" />
+      <workItem from="1590132399633" duration="155000" />
+      <workItem from="1590161252621" duration="142000" />
+      <workItem from="1590161540184" duration="1900000" />
+      <workItem from="1590211072896" duration="1104000" />
+      <workItem from="1590219735387" duration="625000" />
+      <workItem from="1590284855822" duration="1446000" />
+      <workItem from="1590286363576" duration="4214000" />
+      <workItem from="1590336268318" duration="336000" />
+      <workItem from="1590414693974" duration="1298000" />
+      <workItem from="1590445835138" duration="251000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
